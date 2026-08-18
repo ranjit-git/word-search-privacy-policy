@@ -1,0 +1,1 @@
+# word-search-privacy-policy
