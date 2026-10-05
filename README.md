@@ -6,8 +6,8 @@ Thank you for playing Word Search: Brain Puzzle Game! We respect your privacy an
 
 ## 1. Information We Collect
 
-### A. Local Game Data
-Our game is designed to be highly privacy-conscious. All of your core game data—including your level progress, coin/star balance, achievements, and settings (such as sound preferences)—is saved **locally on your device** using an internal database (Isar). We do not require you to create an account, and we do not transmit, collect, or store this gameplay data on any external servers. If you uninstall the app or clear your app data, your local game progress will be permanently deleted.
+### A. Local Game Data & Gameplay Analytics
+Our game is designed to be highly privacy-conscious. Your core save files (such as exact grid layouts and current match progress) are saved locally on your device using an internal database (Isar). We do not require you to create an account. If you uninstall the app or clear your app data, your local game progress will be permanently deleted. However, to help us balance the game's difficulty and understand how players interact with our app, we collect anonymous, aggregated telemetry data regarding your gameplay progress (e.g., levels completed, time taken to solve puzzles, achievements unlocked, and virtual currency spent).
 
 ### B. Automatically Collected Information (Third-Party Services)
 While we do not collect personal information directly, our app uses third-party services that may collect information used to identify you, track performance, or serve features. These services may collect data such as your IP address, device identifiers (like Advertising IDs), crash logs, and general location data to function properly.
@@ -22,23 +22,27 @@ We use Google AdMob to display banner advertisements on the home and level scree
 ### B. Firebase Crashlytics
 We use Firebase Crashlytics (provided by Google) to track app stability and fix bugs. If the app crashes, Crashlytics automatically collects anonymous crash reports. This data includes device state information, operating system version, and the line of code that caused the crash, which helps us fix the issue in future updates.
 
-### C. In-App Purchases (Google Play Billing / Apple App Store)
+### C. Google Firebase Analytics
+We use Firebase Analytics (provided by Google) to collect anonymous, aggregated data on how users interact with our game. This includes data such as screen views, levels completed, time taken to finish a puzzle, and in-game economy metrics (coins earned/spent). This data does not personally identify you and is strictly used to improve game balance and user experience.
+
+### D. In-App Purchases (Google Play Billing / Apple App Store)
 We offer in-app purchases (such as Coin Packs, Premium Word Packs, and Ad Removal) through your device's respective app store. 
 - All payment processing is securely handled by the app store.
 - We do not have access to, nor do we collect or store, your credit card details or billing information. 
 
-### D. Free Dictionary API
+### E. Free Dictionary API
 When you find words in the game, the app connects to the [Free Dictionary API](https://dictionaryapi.dev/) to fetch real-time definitions for you. 
 - This requires your device to send an HTTP request to their servers containing the word being searched.
 - Because this is an external web request, your IP address is exposed to their servers, though we do not link this to any personal identity.
 
-### E. In-App Reviews
+### F. In-App Reviews
 We use native in-app review tools to occasionally ask for your feedback. These tools are provided directly by the OS (Android/iOS) and do not collect any personal data outside of your standard app store interactions.
 
 ## 3. How We Use Information
 Any data collected by third-party services is used strictly for:
 - Serving advertisements and allowing you to earn in-game rewards.
 - Monitoring app health, fixing crashes, and improving game performance.
+- Balancing game difficulty and understanding player progression through gameplay analytics.
 - Fetching educational word definitions to enhance gameplay.
 
 ## 4. Children's Privacy
