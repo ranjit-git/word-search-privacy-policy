@@ -51,8 +51,19 @@ Our application is designed for general audiences. We do not knowingly collect p
 ## 5. Security
 We value your trust in playing our game. Since your core gameplay data is stored locally on your device, we recommend using standard device security features (such as screen locks) to protect your local data.
 
-## 6. Changes to This Privacy Policy
+## 6. Your Data Protection Rights (GDPR & CCPA)
+Depending on your location (such as the European Economic Area or California), you have certain data protection rights regarding the information collected by our third-party partners (like AdMob and Firebase). These rights may include:
+- **The right to access, update, or delete** the information we have on you.
+- **The right of rectification** (to correct inaccurate data).
+- **The right to object** to our processing of your personal data.
+- **The right to withdraw consent** at any time where we relied on your consent to process your personal information (such as personalized advertising).
+
+Because all core gameplay data is stored strictly locally on your device, you can completely erase your gameplay data at any time by uninstalling the app or clearing the app's data cache in your device settings.
+
+To manage your advertising consent, you may use the privacy or advertising settings built into your mobile operating system (e.g., "Opt out of Ads Personalization" on Android, or "Limit Ad Tracking" on iOS), or the in-app consent management dialog if applicable in your region. 
+
+## 7. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted.
 
-## 7. Contact Us
+## 8. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at pahan.ranjit.0201@gmail.com.
